@@ -22,5 +22,6 @@ Until the final release of the software, its use and redevelopment will be free 
 
 ## Project Team
 
-- Project Manager: Mr. Kamran
+- Project Programmer and Manger: Mr. Ehsan bakhsh
+- School Manger: Mr. Kamran
 - Guide Teacher: Mr. Rahimi
