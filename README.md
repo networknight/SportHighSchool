@@ -18,11 +18,10 @@ The project is known by the shortened name "SportHighSchool".
 
 ## Usage
 
-Until the final release of the software, its use and redevelopment will be free under the latest license of the repository.
-The Database files will be located in Folder name Resources. If the new realses of database will be exists that will be notice.
+Until the final release of the software, its use and redevelopment will be free under the latest license of the repository. The Database files will be located in the `Resources` folder. If new database releases exist, they will be noted.
 
 ## Project Team
 
-- Project Programmer and Manger: Mr. Ehsan bakhsh
-- School Manger: Mr. Kamran
+- Project Programmer and Manager: Mr. Ehsan Bakhsh
+- School Manager: Mr. Kamran
 - Guide Teacher: Mr. Rahimi
